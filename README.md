@@ -1,0 +1,2 @@
+# HaffmanCode
+  Huffman data compression
